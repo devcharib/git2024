@@ -1,2 +1,3 @@
 nome: xxx
 senha: xxx
+level: 30
